@@ -1,6 +1,6 @@
 # Women-Safety-App
 
-## Instalation
+## Installation
 To install this app in your android divice, perform the following steps:
 1. From a Home screen, swipe up or down from the center of the display to access the apps screen.
 2. Navigate: Settings. Apps. .
